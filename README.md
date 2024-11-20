@@ -1,6 +1,4 @@
-# Equisized Synonyms
-
-TL;DR: Try it [here](https://equisized-synonyms-1.onrender.com/).
+_DONT MERGE MASTER-_
 
 ## Naming is Hard!
 
