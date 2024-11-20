@@ -16,3 +16,5 @@ function refresh() {
 
     redirect(words);
 }
+
+// [KNiWBRuNCH]
