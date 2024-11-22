@@ -1,6 +1,6 @@
 # Equisized Synonyms
 
-TL;DR: Try it [here](https://equisized-synonyms-1.onrender.com/).
+TL;DR: visit the upstream README, and/or keep reading this one.
 
 ## Naming is Hard!
 
@@ -16,15 +16,5 @@ They are closely related words but unfortunately do not have the same length!
 ## The Naming Tool You Always Wanted But Never Knew Existed
 Given a list of words, generates a table where each column consists of the synonyms of each of the words and the rows are the respective number of letters.  You are then free to chose an equi-sized pair.
 
-Try it [here](https://equisized-synonyms-1.onrender.com/).
-
 ## Credits
-Hosted on a free [Render](render.com) intance - so go easy.  
-Word lists from [thesaurus.com](https://thesaurus.com)
-
-
-## Colophon
-I ❤️ your feedback.  
-If you found this funny or useful - do Tweet about it to let [me](https://twitter.com/vordemolt1) know.  
-If you found it lacking, please post an issue.  
-Pull requests gladly accepted!
+@CodingComet wrote the original, probably inspired by @adishavit
